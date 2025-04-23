@@ -1,2 +1,2 @@
 Help me!!!!!
-Run form main.py
+Run from main.py
